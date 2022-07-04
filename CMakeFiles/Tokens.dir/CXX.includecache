@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocaranza/Documentos/C++/Tokenizer/src/tokenizer.hpp
+algorithm
+-
+string
+-
+iostream
+-
+vector
+-
+sstream
+-
+
+/home/ocaranza/Documentos/C++/Tokenizer/tokens.cpp
+src/tokenizer.hpp
+/home/ocaranza/Documentos/C++/Tokenizer/src/tokenizer.hpp
+iostream
+-
+string
+-
+

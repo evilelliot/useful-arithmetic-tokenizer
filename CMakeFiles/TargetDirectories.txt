@@ -1,0 +1,3 @@
+/home/ocaranza/Documentos/C++/Tokenizer/CMakeFiles/rebuild_cache.dir
+/home/ocaranza/Documentos/C++/Tokenizer/CMakeFiles/edit_cache.dir
+/home/ocaranza/Documentos/C++/Tokenizer/CMakeFiles/Tokens.dir
